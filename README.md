@@ -36,9 +36,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 
+![Creating DC-1 copy](https://github.com/user-attachments/assets/45986734-6b76-4601-ad62-9583139061e4)
 
 </p>
-![Creating DC-1 copy](https://github.com/user-attachments/assets/452f0376-8735-4f7e-9ed7-18f95ab8057e)
+
 
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exerctation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
