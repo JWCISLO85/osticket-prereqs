@@ -59,8 +59,9 @@ The next stage was to enable Internet Information Services on the virtual machin
 <br />
 
 <p>
-![Configuring ISS](https://github.com/user-attachments/assets/6cd25cdd-fc71-498f-b03d-3b9b08e58e5e)
-![check cgi](https://github.com/user-attachments/assets/4ffe5e40-0b71-4e9d-b000-fd8fd42d7181)
+![Configuring ISS](https://github.com/user-attachments/assets/f11e49d7-fe49-4c7e-926a-2d320a5ed75f)
+
+
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
