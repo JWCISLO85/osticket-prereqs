@@ -63,9 +63,9 @@ The next stage was to enable Internet Information Services on the virtual machin
 
 ![Configuring ISS](https://github.com/user-attachments/assets/26df7b13-857c-42bb-bb9e-7f8be25a6235)
 
-![Internet information service](https://github.com/user-attachments/assets/ae26d97e-91dc-4fe8-bec9-9e7f1d953cda)
+![Internet information service](https://github.com/user-attachments/assets/ae26d97e-91dc-4fe8-bec9-9e7f1d953cda) ![check cgi](https://github.com/user-attachments/assets/67274c7e-21a5-4563-bc4a-b92b6ade5533)
 
-![check cgi](https://github.com/user-attachments/assets/67274c7e-21a5-4563-bc4a-b92b6ade5533)
+
 
 ![Internet information service](https://github.com/user-attachments/assets/52adb8ce-038b-48b1-9c49-bca2da8931c1)
 
