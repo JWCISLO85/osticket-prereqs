@@ -30,15 +30,17 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Installed Rewrite Module
 - Installed Visual C++
 - Installed MYSQL Database
+- Installed OSTicket and configured
 
 <h2>Installation Steps</h2>
 
-<p>
+![Creating DC-1](https://github.com/user-attachments/assets/0275611d-8f61-4207-b35b-435e6c030999)
+
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>![check cgi](https://github.com/user-attachments/assets/001c5aa8-c004-4228-a6aa-5c8d8f7d5623)
+</p>
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exerctation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
 
