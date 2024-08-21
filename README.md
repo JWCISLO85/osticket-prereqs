@@ -57,11 +57,11 @@ The first stage was to create a virtual machine in Azure. I created a Resource G
 The next stage was to enable Internet Information Services on the virtual machine. This is because IIS  is a crucial component for running osTicket on a Windows server. It provides the necessary web server environment for the application to function properly and interact with users through the internet.I also had to check IIS Mangement Console by going to Internet> Web Management Toos> IIS Management Console
 </p>
 <br />
-![Configuring ISS](https://github.com/user-attachments/assets/26df7b13-857c-42bb-bb9e-7f8be25a6235)
+
 
 <p>
 
-
+![Configuring ISS](https://github.com/user-attachments/assets/26df7b13-857c-42bb-bb9e-7f8be25a6235)
 
 </p>
 <p>
