@@ -117,7 +117,18 @@ Within IIS Go to sites -> Default -> osTicket On the right, click “Browse *:80
 
 
 
-![succesfully navigated to os ticket page](https://github.com/user-attachments/assets/be69a710-06b7-42b1-b98e-19558265160d)
+
+
+
+![succesfully navigated to os ticket page](https://github.com/user-attachments/assets/f3243723-efeb-49f9-b8c9-c05e96ddc862)
+
+Go back to IIS, sites -> Default -> osTicket
+Double-click PHP Manager
+Click “Enable or disable an extension”
+Enable: php_imap.dll
+Enable: php_intl.dll
+Enable: php_opcache.dll
+Refresh the osTicket site in your browse, observe the changes
 
 </p>
 <p>
