@@ -67,7 +67,8 @@ The next stage was to enable Internet Information Services on the virtual machin
 
 
 
-
+PHP manager can be downloaded at https://www.iis.net/.
+![image](https://github.com/user-attachments/assets/5380e24b-b1ec-43c1-8232-22bbfc4ed2b7)
 
 
 
@@ -76,6 +77,6 @@ The next stage was to enable Internet Information Services on the virtual machin
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
 </p>
 <br />
