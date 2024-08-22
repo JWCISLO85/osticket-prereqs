@@ -106,6 +106,10 @@ Register PHP within IIS and find the PHP folder that was created earlier. Open I
 ![Finding PHP folder that we created](https://github.com/user-attachments/assets/21475646-00d2-4c6a-9f60-5fe9a8b02fff)
 
 
+<h2> Step 6 Install OSTicket </h2>
+
+
+
 
 </p>
 <p>
