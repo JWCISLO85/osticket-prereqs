@@ -99,6 +99,10 @@ I created a password and user name that was needed to configure database in OSTi
 
 <h2> Step 5 Register PHP from within IIS </h2>
 
+
+
+![Enabling PHP](https://github.com/user-attachments/assets/b9e750c3-af8e-4d8a-b085-d87ecd535561)
+
 </p>
 <p>
 
