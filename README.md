@@ -61,7 +61,7 @@ The next stage was to enable Internet Information Services on the virtual machin
 ![Internet information service](https://github.com/user-attachments/assets/ae26d97e-91dc-4fe8-bec9-9e7f1d953cda)  ![check cgi](https://github.com/user-attachments/assets/67274c7e-21a5-4563-bc4a-b92b6ade5533)           
 ![Internet information service](https://github.com/user-attachments/assets/52adb8ce-038b-48b1-9c49-bca2da8931c1)![making sure all checked](https://github.com/user-attachments/assets/01f51c44-5944-47e4-8e75-7b40671bfc85)
 
-<h2> Step 3 Download and Install PHP Manager for IIS </h2>
+<h2> Step 3 Download and Install PHP Manager for IIS and Rewrite Module </h2>
   
 ![Download PHP Manager](https://github.com/user-attachments/assets/7d405e80-f043-484a-9378-d7671d279ee4)
 
@@ -69,6 +69,9 @@ The next stage was to enable Internet Information Services on the virtual machin
 
 PHP manager can be downloaded at https://www.iis.net/.
 ![image](https://github.com/user-attachments/assets/5380e24b-b1ec-43c1-8232-22bbfc4ed2b7)
+
+![Download Rewrite Module](https://github.com/user-attachments/assets/9937e075-e212-4526-9666-762f9cc677c2)
+rewrite module in IIS (Internet Information Services) is a powerful tool that allows you to modify the URL structure of web requests before they are processed by the web server. This can be used for a variety of purposes, including
 
 
 
