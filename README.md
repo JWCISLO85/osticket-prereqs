@@ -117,6 +117,7 @@ Within IIS Go to sites -> Default -> osTicket On the right, click “Browse *:80
 
 
 
+![succesfully navigated to os ticket page](https://github.com/user-attachments/assets/be69a710-06b7-42b1-b98e-19558265160d)
 
 </p>
 <p>
