@@ -63,6 +63,7 @@ The next stage was to enable Internet Information Services on the virtual machin
 
 <h2> Step 3 Download and Install PHP Manager for IIS </h2>
   
+![Download PHP Manager](https://github.com/user-attachments/assets/7d405e80-f043-484a-9378-d7671d279ee4)
 
 
 
