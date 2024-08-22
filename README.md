@@ -99,7 +99,7 @@ I created a password and user name that was needed to configure database in OSTi
 
 <h2> Step 5 Register PHP from within IIS a </h2>
 
-Register PHP within IIS and find the PHP folder that was created earlier.
+Register PHP within IIS and find the PHP folder that was created earlier. Open IIS as admin.
 
 ![Enabling PHP](https://github.com/user-attachments/assets/b9e750c3-af8e-4d8a-b085-d87ecd535561)
 
