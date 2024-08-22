@@ -92,10 +92,12 @@ OSTicket needs a database to store users so it needs MYSQL to be installed. It c
 
 ![MY SQL passowrd](https://github.com/user-attachments/assets/9b445a9a-8f8d-49cd-90c4-be69f1e4bf64)
 
-I created a password and user name that was needed to configure database in OSTicket
+I created a password and user name that was needed to configure database in OSTicket.
 
 
 ![Downloading microsoft VC ++](https://github.com/user-attachments/assets/aed6acac-0f5b-4bab-806f-bbfae0521b6a)
+
+<h2> Step 5 Register PHP from within IIS </h2>
 
 </p>
 <p>
