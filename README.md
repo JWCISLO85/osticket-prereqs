@@ -71,7 +71,8 @@ PHP manager can be downloaded at https://www.iis.net/.
 ![image](https://github.com/user-attachments/assets/5380e24b-b1ec-43c1-8232-22bbfc4ed2b7)
 
 ![Download Rewrite Module](https://github.com/user-attachments/assets/9937e075-e212-4526-9666-762f9cc677c2)
-rewrite module in IIS (Internet Information Services) is a powerful tool that allows you to modify the URL structure of web requests before they are processed by the web server. This can be used for a variety of purposes, including
+
+Rewrite module in IIS (Internet Information Services) is a powerful tool that allows you to modify the URL structure of web requests before they are processed by the web server. 
 
 
 
