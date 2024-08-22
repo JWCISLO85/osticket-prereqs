@@ -108,6 +108,14 @@ Register PHP within IIS and find the PHP folder that was created earlier. Open I
 
 <h2> Step 6 Install OSTicket </h2>
 
+Download osTicket from  https://osticket.com/
+Extract and copy “upload” folder to c:\inetpub\wwwroot
+Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”
+Reload IIS (Open IIS, Stop and Start the server)
+Within IIS Go to sites -> Default -> osTicket
+- On the right, click “Browse *:80
+![Restart os ticket](https://github.com/user-attachments/assets/585605c4-ab78-46ff-b636-95d6caa1c021)
+
 
 
 
