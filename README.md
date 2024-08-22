@@ -156,6 +156,11 @@ MySQL Password: Password1
 Click “Install Now!”
 
 
+<h2> Successfully Installed! </h2>
+
+
+![os-ticket successfully installed logged in](https://github.com/user-attachments/assets/b5be7cf2-e25e-4d71-ac0a-79a80adf97aa)
+
 </p>
 <p>
 
