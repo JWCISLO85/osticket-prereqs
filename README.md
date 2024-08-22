@@ -161,6 +161,9 @@ Click “Install Now!”
 
 ![os-ticket successfully installed logged in](https://github.com/user-attachments/assets/b5be7cf2-e25e-4d71-ac0a-79a80adf97aa)
 
+ <h2>Final Clean up </h2>
+ Delete: C:\inetpub\wwwroot\osTicket\setup
+Set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-config.php
 </p>
 <p>
 
