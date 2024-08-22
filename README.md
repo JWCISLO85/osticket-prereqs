@@ -41,7 +41,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 <p>
-<h2>Step1 </h2>
+<h2>Step 1 </h2>
   The first stage was to create a virtual machine in Azure. I created a Resource Group then created a Windows 10 virtual machine with 2 virtual CPUs so that it had sufficient resources. This also allowed me to create a virtual network.
 </p>
 <br />
@@ -51,6 +51,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 <p>
+<h2> Step 2</h2>
 The next stage was to enable Internet Information Services on the virtual machine. This is because IIS  is a crucial component for running osTicket on a Windows server. It provides the necessary web server environment for the application to function properly and interact with users through the internet. I turned CGI, Common HTTP Features and IIS Management Console. To enable IIS with CGI Control Panel > Programs and Features > Turn Windows Features on or off > World Wide Web Services > Application Development Features > CGI (check) Expand Internet Information Services. To enable IIS Management Console Internet Information Services > Web Management Tools > IIS Management Console
 </p>
 <br />
