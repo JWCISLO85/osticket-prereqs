@@ -85,13 +85,17 @@ Rewrite module in IIS (Internet Information Services) is a powerful tool that al
 
 <h2> Step 4 Download MYSQL and Visual C++ </h2>
 
-OSTicket needs a database to store users so it needs MYSQL to be installed.
+OSTicket needs a database to store users so it needs MYSQL to be installed. It can be downloaded from https://www.mysql.com/downloads/
 
 ![downloading MY SQL](https://github.com/user-attachments/assets/1373af4c-ea10-4515-a8ed-c242b0775480)
 
 
 ![MY SQL passowrd](https://github.com/user-attachments/assets/9b445a9a-8f8d-49cd-90c4-be69f1e4bf64)
+
 I created a password and user name that was needed to configure database in OSTicket
+
+
+![Downloading microsoft VC ++](https://github.com/user-attachments/assets/aed6acac-0f5b-4bab-806f-bbfae0521b6a)
 
 </p>
 <p>
