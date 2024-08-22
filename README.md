@@ -69,6 +69,7 @@ The next stage was to enable Internet Information Services on the virtual machin
 
 PHP manager can be downloaded at https://www.iis.net/.
 ![image](https://github.com/user-attachments/assets/5380e24b-b1ec-43c1-8232-22bbfc4ed2b7)
+ PHP Manager provides a user-friendly interface for configuring PHP settings
 
 ![Download Rewrite Module](https://github.com/user-attachments/assets/9937e075-e212-4526-9666-762f9cc677c2)
 
