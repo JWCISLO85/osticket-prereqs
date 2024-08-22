@@ -67,7 +67,12 @@ The next stage was to enable Internet Information Services on the virtual machin
 
 
 
- PHP Manager provides a user-friendly interface for configuring PHP settingsPHP manager can be downloaded at https://www.iis.net/.
+ PHP Manager provides a user-friendly interface for configuring PHP settingsPHP manager can be downloaded at https://www.iis.net/. I then created a new folder C:/PHP.
+
+![Make PHP folder in C drive](https://github.com/user-attachments/assets/1f0b298c-2d97-4b0c-816b-ebe05e6eb0c8)
+
+
+
 
 ![image](https://github.com/user-attachments/assets/5380e24b-b1ec-43c1-8232-22bbfc4ed2b7)
 
